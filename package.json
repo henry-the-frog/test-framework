@@ -5,5 +5,20 @@
   "type": "module",
   "main": "src/index.js",
   "author": "Henry",
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henry-the-frog/test-framework.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/henry-the-frog/test-framework/issues"
+  },
+  "homepage": "https://github.com/henry-the-frog/test-framework#readme"
 }
